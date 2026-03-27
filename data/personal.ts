@@ -69,6 +69,26 @@ const NishidhSkills = [
 
 const VisibleProjects = [
     {
+        id: 31,
+        img: "/assets/images/safe_her.jpg",
+        title: "SAFE_HER",
+        status: true,
+        content: "SAFE_HER is an AI-powered safety app for women designed to turn fear into confidence. It features AI-based risk scoring for safer route suggestions, real-time unsafe area heatmaps, voice-activated SOS emergency (code word: 'Bachao'), community safety reporting, smart night-time protection mode, trip mode with snatch detection, and a safety assistant chat for immediate guidance. Built as a full-stack application with React Native/Expo for mobile and Golang backend with WebSockets for real-time communication. Led a team of 3 contributors.",
+        url: "https://github.com/nishidhx/HackIndia_safe_her",
+        github: "https://github.com/nishidhx/HackIndia_safe_her",
+        skill: ["React Native", "Expo", "TypeScript", "JavaScript", "Go", "PostgreSQL", "GORM", "Gorilla Mux", "WebSockets", "JWT", "Google Maps API", "Cohere AI", "SMS Integration", "Real-time Location Tracking", "Voice Recognition", "Expo Maps", "Axios", "Docker", "Golang Encryption", "RAG", "Vector Embeddings", "ngrok", "Android SDK", "OpenAI SDK", "MAPS SDK"]
+    },
+    {
+        id: 30,
+        img: "/assets/images/navium.jpg",
+        title: "Navium",
+        status: true,
+        content: "Navium is a modern social and communication platform reimagining online interaction as a journey. Ships represent connections, Voyages represent conversations, and Harbors represent communities. It features real-time chat with a smooth user experience, a ship-based connection system, community spaces, secure authentication, and a clean, minimal UI — designed for users who value meaningful conversations, stronger digital communities, and a calmer social space.",
+        url: "https://github.com/nishidhx/navium_clt",
+        github: "https://github.com/nishidhx/navium_clt",
+        skill: ["Next.js", "React", "TypeScript", "JavaScript", "TailwindCSS", "Node.js", "Express.js", "Socket.IO", "OAuth", "JWT", "bcrypt", "Prisma", "PostgreSQL", "ES6+", "REST APIs"]
+    },
+    {
         id: 29,
         img: "/assets/images/ems.png",
         title: "Aurenith EMS",
