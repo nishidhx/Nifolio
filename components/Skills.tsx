@@ -5,7 +5,7 @@ import Badges from "./Badges";
 const Skills = () => {
 
     return <section className="flex flex-col gap-2 mt-5 w-full text-amber-50 pb-5">
-        <SectionTitle text="Tools & Technologies." className="text-xl font-semibold" />
+        <SectionTitle text="Tools & Technologies Used." className="text-xl font-semibold" />
         <div className="flex flex-row gap-2 flex-wrap sm:w-9/12">
             {NishidhSkills.map((skill, index) => (
                <Badges key={index} icon={<skill.icon className="text-amber-50 size-6 mr-2" />} text={skill.name} />
