@@ -276,12 +276,6 @@ const LicenseCert = [
         img: "/assets/images/JS.png",
         link: "https://www.freecodecamp.org/certification/fcc-2222c476-1828-4fcb-bd35-8fe8b15820a4/javascript-algorithms-and-data-structures-v8"
     },
-    {
-        id: 3,
-        name: "GenAI - Certification",
-        img: "/assets/images/google.png",
-        link: "https://certificates.simplicdn.net/share/8786091_91682011755177275338.png"
-    }
 ]
 
 export {
