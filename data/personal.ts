@@ -11,15 +11,15 @@ import { MdSettingsApplications } from "react-icons/md";
 
 
 const NishidhAbout = `
-    <p> Hey, I'm Nishidh Singh, a full stack developer. Primarily using JavaScript and its frameworks.I love to contribute and building things with people.(Not just an engineer). I'm currently working with Next.js, Django, and software applications. </p>
+    <p>Hey, I'm Nishidh Singh — a full stack developer who enjoys building scalable and impactful digital experiences. I primarily work with JavaScript and modern web technologies, with a strong focus on creating clean, user-friendly applications.</p>
 
-    <p>I'm flexible and adaptable with my tech stack, and I'm always looking for new challenges to push myself to learn new things.</p>
+    <p>Currently, I’m working with Next.js, Django, and full stack software applications. I enjoy collaborating with people, contributing to meaningful projects, and continuously improving my skills by exploring new technologies and ideas.</p>
 
-    <p>I love contributing to open-source projects and have actively participated in multiple hackathons, where I collaborate, build, and solve real-world problems.</p>
+    <p>I’m adaptable with my tech stack, love solving real-world problems, and actively participate in hackathons and open-source contributions where I can learn, build, and grow alongside other developers.</p>
 `
 
 const NishidhReachOut = `
-    <p>I’m currently available for internships, full-time opportunities, and freelance projects. If you’re looking for someone passionate, skilled, and ready to contribute, I’m here to help bring your ideas to life!</p>
+    <p>I’m currently open to internships, freelance work, collaborations, and full-time opportunities. If you’re building something exciting or looking for a developer who genuinely enjoys creating impactful products, feel free to reach out — I’d love to connect and collaborate.</p>
 `
 
 const NishidhSkills = [
